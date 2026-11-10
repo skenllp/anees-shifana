@@ -87,7 +87,7 @@
 })();
 
 
-const NIKAH_DATE = new Date('2026-12-20T11:00:00+05:30').getTime();
+const NIKAH_DATE = new Date('2026-12-21T11:00:00+05:30').getTime();
 
 const cdDays = document.getElementById('cd-days');
 const cdHours = document.getElementById('cd-hours');
